@@ -1,0 +1,10 @@
+class Main{
+
+    public static int calculateTurns(int seats, int customer, string dishes){
+        return 0;
+    }
+
+    public static void Main(String[] args){
+        System.out.println("Running?");
+    }
+}
